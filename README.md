@@ -1469,3 +1469,4 @@ Signed,
 - Allan Mraes ([@mysqlbox](https://github.com/mysqlbox)), DBA MySQL - Sysadmin Linux - www.mysqlbox.com.br
 - Anubhab Sen ([@anubhabsen](https://github.com/anubhabsen)), CSE Undergraduate at IIIT-H
 -Divyansh Gautum ([@bhaibhaibhai](https://github.com/bhaibhaibhai)),Developer
+-Tarun Pareek ([@FrostyTheDeveloper](https://github.com/FrostyTheDeveloper)),Developer
